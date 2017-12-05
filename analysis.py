@@ -180,11 +180,10 @@ if __name__ == "__main__":
     # plt.hist(times, normed=False, alpha=1.0, bins=50,
     #          histtype='step', edgecolor='grey', linewidth=2.5, label="modification")
     ax.xaxis.set_major_locator(mdates.AutoDateLocator())
-    date_fmt = '%m-%d %H:%M'
+    date_fmt = '%m-%d'  # %H:%M'
     ax.xaxis.set_major_formatter(mdates.DateFormatter(date_fmt))
     ax.set_yscale("log", nonposy='clip')
     fig.autofmt_xdate()
-    plt.xlabel('Score (1 to 10)')
     plt.ylabel('# of submissions')
     plt.legend(loc="upper left", framealpha=1, frameon=False)
     plt.savefig(save_prefix + 'submission_timeline.png')
