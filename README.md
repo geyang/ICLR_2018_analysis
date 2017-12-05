@@ -1,6 +1,6 @@
 # ICLR_2018_analysis
 
-I did some anlysis on the submissions to this ICLR (2018). Looks like the average rating is just above 5.
+I did some analysis on the submissions to this ICLR (2018). Looks like the average rating is just above 5.
 
 | Stats      |      |
 |:---------- |:---- |
