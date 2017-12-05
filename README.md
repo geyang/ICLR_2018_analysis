@@ -1,10 +1,19 @@
 # Analyzing ICLR 2018 Submission and Review Data
 
-I did some analysis on the submissions to this ICLR (2018). Looks like the average rating is just above 5.
+Earlier today I wanted to figure out how well my reviews are compare to the cohort. So I decided to analyze on the submissions to this year's ICLR. A few interesting things stood above the others:
+
+1. distribution of scores is centered slightly above 5
+2. There seems to be too many 4's, too little 3's. People are being nice when they really should give out 3's.
+3. There is a lot of foot traffic commenting on the submissions as soon as the deadline passes. Surprisingly, people comment the least on Sundays.
+4. Actual reviewers don't take breaks on weekends.
+
 
 ## Distribution of ratings
 
+Looks like the average rating is just above 5.
+ 
 ![all_scores.png](./figures/all_scores.png)
+
 Pink histogram shows the distribution of the average rating for each submission. Blue shows that of all ratings data without being bucketed by submission.
 
 - The ratings are mostly center around 5 (5.23 to be exact). 
