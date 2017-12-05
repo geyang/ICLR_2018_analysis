@@ -1,18 +1,26 @@
-# ICLR_2018_analysis
+# Analyzing ICLR 2018 Submission and Review Data
 
 I did some analysis on the submissions to this ICLR (2018). Looks like the average rating is just above 5.
 
-| Stats      |      |
-|:---------- |:---- |
-| mean       | 5.23 |
-| median     | 5.33 |
-| our rating | 5.33 |
+## Distribution of ratings
 
 ![all_scores.png](./figures/all_scores.png)
+Pink histogram shows the distribution of the average rating for each submission. Blue shows that of all ratings data without being bucketed by submission.
 
-## How Tardy Are We?
+- The ratings are mostly center around 5 (5.23 to be exact). 
+- The distribution of scores is skewed and asymmetric
+- Virtually no 10, with a few 1's
 
-It is also interesting to look at when people submit their paper and reviews. 
+| Stats      | Result |
+|:---------- |:------ |
+| mean       | 5.23   |
+| median     | 5.33   |
+| our rating | 5.33   |
+
+
+## When Do People Submit, Comment, or Review?
+
+It is also interesting to look at when people submit their paper and reviews. Figure below shows the submission frequency versus time. 
 
 ![./figures/submission_timeline.png](./figures/submission_timeline.png)
 
