@@ -1,6 +1,6 @@
 # Analyzing ICLR 2018 Submission and Review Data
 
-Earlier today I wanted to figure out how well my reviews are compare to the cohort. So I decided to analyze on the submissions to this year's ICLR. A few interesting things stood above the others:
+Earlier today I wanted to figure out how well my reviews are compare to the cohort. So I decided to do a bit of analysis on the submissions data for this year's ICLR. A few interesting things stood above the others:
 
 1. distribution of scores is centered slightly above 5
 2. There seems to be too many 4's, too little 3's. People are being nice when they really should give out 3's.
