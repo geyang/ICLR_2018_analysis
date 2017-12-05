@@ -16,7 +16,9 @@ It is also interesting to look at when people submit their paper and reviews.
 
 ![./figures/submission_timeline.png](./figures/submission_timeline.png)
 
-Looks like a lot of people start reviewing the paper submitted as soon as the review period started!
+Looks like people start looking at the papers as soon as the review period starts! The actual reviewers though, only do so half way through. It is unclear if this have something to do with how the review assignments are arranged and handed out.
+
+Also interestingly, people comment much less on Sundays! The comment frequency shows strong weekly cyclicity. On the other hand, the review submissions are not. A possible explanation is that reviewers tend to be grad students and junior professors, who don't have a lot of family commitments.
 
 ## Is it better to submit later?
 
